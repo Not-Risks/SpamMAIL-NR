@@ -1,0 +1,43 @@
+LICENCIA PÚBLICA GENERAL GNU
+Versión 3, 17 de octubre del 2021
+
+Copyright © 2021 Not-Risks, Contacto. <https://t.me/not_risks_ofc>
+
+Todos pueden copiar y distribuir copias textuales de este documento de licencia, pero no se permite cambiarlo.
+
+ *_Preámbulo_*
+
+La Licencia Pública General GNU es una licencia libre de copyleft para
+software y otros tipos de trabajos.
+
+Las licencias para la mayoría de software y otros trabajos prácticos están diseñadas
+para quitarle la libertad de compartir y cambiar las obras. Por el contrario,
+la Licencia Pública General GNU está destinada a garantizar su libertad para
+compartir y cambiar todas las versiones de un programa para asegurarse de que siga siendo gratuito
+software para todos sus usuarios. Yo, Not-Risks, utilizo la
+Licencia pública general GNU para la mayor parte de mis proyectos; se aplica también a
+cualquier otro trabajo publicado de esta manera por sus autores. Puedes aplicarlo a
+sus programas también.
+
+Cuando hablamos de software libre, nos referimos a la libertad, no precio. Las Licencias Públicas Generales están diseñadas para garantizar la libertad de distribuir copias de software libre (y cobrar por ellos si así lo desean), puede cambiar el software o utilizar partes de él en un nuevo
+programa gratuito.
+
+Para proteger sus derechos, debemos evitar que otros le nieguen estos derechos o pedirle que renuncie a los derechos. Por lo tanto, tienes ciertas responsabilidades si distribuye copias del software, o si lo modificas: responsabilidades de respetar la libertad de los demás.
+
+
+_Permisos_
+*Uso comercial
+*Distribución
+*Modificación
+*Uso de patentes
+*Uso privado
+
+_Condiciones_
+*Revelar el código fuente
+*Aviso de licencia y copyright
+*Misma licencia
+*Cambios de estado
+
+_Limitaciones_
+*Resposabilidad
+*Garantía
