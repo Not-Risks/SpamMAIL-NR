@@ -8,14 +8,15 @@
 -Termux (emulador android de terminal)
 -Windows 10
 
-# Comandos para la instalación
-apt update && apt-get upgrade -y
-apt install git
-git clone https://github.com/Not-Risks/SpamMAIL-NR
-apt install python3
-pip install -m requirements.txt
-cd SpamMAIL-NR
-python3 SpamMAIL-NR
+# Comandos para la instalación- - 
+- apt update && apt-get upgrade -y
+- apt install git
+- git clone https://github.com/Not-Risks/SpamMAIL-NR
+- apt install python3
+- pip install -m requirements.txt
+- cd SpamMAIL-NR
+- python3 SpamMAIL-NR
 
 # Comunidad de Telegram
 https://t.me/hackersAsperger
+
