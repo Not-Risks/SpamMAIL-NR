@@ -19,8 +19,8 @@
 - apt install git
 - git clone https://github.com/Not-Risks/SpamMAIL-NR
 - apt install python3
-- pip install -m requirements.txt
 - cd SpamMAIL-NR
+- pip install -r requirements.txt
 - python3 SpamMAIL-NR
 
 ------------
